@@ -27,7 +27,7 @@ Folder contains data analytics projects using python and summary reports around 
 
 ## eBay - Shill Bidding Analysis  
 
-Dataset source:  
+Dataset source: https://archive.ics.uci.edu/ml/datasets/Shill+Bidding+Dataset (https://archive.ics.uci.edu/ml/datasets/Shill+Bidding+Dataset)  
 
 About the project:  
 
