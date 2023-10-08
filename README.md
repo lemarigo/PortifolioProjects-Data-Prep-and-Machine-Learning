@@ -5,7 +5,7 @@ Folder contains data analytics projects using python and summary reports around 
 ## Online Retailer Analysis
 
 **Dataset source:**  https://www.kaggle.com/datasets/abhishekrp1517/online-retail-transactions-dataset  
-<i>Dataset is too large to upload into the Git repository>
+<i>Dataset is too large to upload into the Git repository/>
 
 **About the project:** I've been given access to a dataset containing customer transactions for an online retailer and tasked with using machine learning tools to gain and report on business insights. The audience for this report are non-specialists.
 
