@@ -29,6 +29,10 @@ Folder contains data analytics projects using python and summary reports around 
 
 Dataset source: https://archive.ics.uci.edu/ml/datasets/Shill+Bidding+Dataset (https://archive.ics.uci.edu/ml/datasets/Shill+Bidding+Dataset)  
 
-About the project:  
+About the project: Online retailer, eBay is providing an option of bidding to their customers globally. Bidding is employed to find the real price of items in the market based on the demand. The
+price offered by anyone participating in this process is termed as a 'bid'. My goal is to use classification or clustering algorithms to predict the bids in the future.  
+
+**PDF document report** --> https://github.com/lemarigo/PortifolioProjects-Data-Prep-and-Machine-Learning/blob/main/eBay%20data%20-%20Shill%20BiddingAnalysis%20(PDF).pdf  
+**Python Code** --> https://github.com/lemarigo/PortifolioProjects-Data-Prep-and-Machine-Learning/blob/main/eBay%20data%20-%20Shill%20Bidding%20Analysis.ipynb  
 
 
