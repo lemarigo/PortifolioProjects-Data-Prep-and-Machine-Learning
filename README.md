@@ -10,6 +10,18 @@ About the project:
 
 <br>
 
-## Airline Time-Series Analysis
+## Plane Simple - Airline Time-Series and Sentiment Analysis  
+
+Dataset source:  
+
+About the project:  
+
+<br>
+
+## eBay - Shill Bidding Analysis  
+
+Dataset source:  
+
+About the project:  
 
 
